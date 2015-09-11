@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Net;
-using System.Net.Configuration;
 
 namespace Lesson1.Samples
 {

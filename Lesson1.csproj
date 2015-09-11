@@ -44,6 +44,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Samples\Methods.cs" />
+    <Compile Include="Samples\Operators.cs" />
+    <Compile Include="Samples\Variables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
